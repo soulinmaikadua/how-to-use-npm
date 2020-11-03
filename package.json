@@ -1,0 +1,26 @@
+{
+  "name": "how-to-use-npm",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "app.js",
+  "scripts": {
+    "test": "sou"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulinmaikadua/how-to-use-npm.git"
+  },
+  "keywords": [
+    "soulin",
+    "workfromhome"
+  ],
+  "author": "soulinmaikadua <soulinmaikadua@gmail.com> (https://github.com/soulinmaikadua/how-to-use-npm.git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soulinmaikadua/how-to-use-npm/issues"
+  },
+  "homepage": "https://github.com/soulinmaikadua/how-to-use-npm#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+ }
+}
